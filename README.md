@@ -5,4 +5,4 @@ The challenge for this week was to use javascript to create a random password ge
 
 ### Links
 https://github.com/Gavin-Pomphrey/Challenge-3
-
+https://gavin-pomphrey.github.io/Challenge-3/
